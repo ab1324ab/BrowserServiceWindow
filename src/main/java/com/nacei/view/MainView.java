@@ -46,7 +46,6 @@ public class MainView<change> {
 
     public GridBagLayout gridBagLayout = new GridBagLayout();
     public List<BindElementJPanel> bindInputJPanelMap = new ArrayList<>();
-//    public int change_count = 0;
 
     public MainView(JFrame frame) {
         this.frame = frame;
